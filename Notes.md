@@ -1,0 +1,2 @@
+- Javascript is a high level object-oriented, multi-paradigm programming language.
+- we use node to run the js.`
